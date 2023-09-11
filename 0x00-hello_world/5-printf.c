@@ -1,7 +1,8 @@
 #include<stdio.h>
-/* main is an entry point 
+/*
+* main -  this function is an entry point
 *
-*Returns 0
+* Returns: 0
 */
 int main(void)
 {
