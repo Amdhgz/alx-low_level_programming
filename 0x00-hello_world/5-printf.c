@@ -1,11 +1,11 @@
 #include<stdio.h>
-/*
-* main -  this function is an entry point
+/**
+* main - Entry point
 *
-* Returns: 0 always
+* Return: Always 0 (Success)
 */
 int main(void)
 {
-	printf("Welcome alx\n");
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
